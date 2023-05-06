@@ -7,7 +7,7 @@ In addition to my proficiency in UIKit and SwiftUI, I'm also familiar with CoreD
 🇸🇪 I'm currently open to exciting new opportunities in Sweden. Don't hesitate to get in touch!
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DanielKarath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-k-71421bab/) [![App Store](https://img.shields.io/badge/App_Store-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6444041080)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DanielKarath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-k-71421bab/) [![App Store](https://img.shields.io/badge/App_Store-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)]([https://apps.apple.com/app/id6444041080](https://apps.apple.com/us/developer/daniel-karath/id1651807385))
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielkarath&hide=stars&count_private=true&theme=github_dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
