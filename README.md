@@ -6,7 +6,7 @@ In addition to my proficiency in UIKit and SwiftUI, I'm also familiar with CoreD
 
 🇸🇪 I'm currently open to exciting new opportunities in Sweden. Don't hesitate to get in touch!
 
-[![Twitter](https://img.shields.io/twitter/url?label=%20%40DanielKarath&style=social&url=https%3A%2F%2Ftwitter.com%2FYourTwitterUsername)](https://twitter.com/YourTwitterUsername)
+[![Twitter](https://img.shields.io/twitter/url?label=%20%40DanielKarath&style=social&url=https%3A%2F%2Ftwitter.com%2DanielKarath)](https://twitter.com/DanielKarath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-k-71421bab/)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielkarath&hide=stars&count_private=true&theme=github_dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
