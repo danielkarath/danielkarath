@@ -1,6 +1,6 @@
 ### Hey there, I'm Daniel 👋
 
-👋 Hello and welcome to my GitHub profile! I'm an iOS developer with a strong passion for Swift, which I've been mastering since early 2022. My expertise lies in UIKit, as I began my journey with this framework before diving into SwiftUI. Nevertheless, I'm now well-versed in SwiftUI as well, having built several apps using both frameworks.
+👋 Hello and welcome to my GitHub profile! I'm an iOS developer with a strong passion for Swift <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"> , which I've been mastering since early 2022. My expertise lies in UIKit, as I began my journey with this framework before diving into SwiftUI. Nevertheless, I'm now well-versed in SwiftUI as well, having built several apps using both frameworks.
 
 In addition to my proficiency in UIKit and SwiftUI, I'm also familiar with CoreData, Combine, and Firebase. I've even explored RxSwift a bit to broaden my skillset. At present, I have one app live on the App Store and another one just about ready to make its debut. Feel free to explore my repositories to see what I've been working on!
 
