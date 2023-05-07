@@ -10,6 +10,6 @@ In addition to my proficiency in UIKit and SwiftUI, I'm also familiar with CoreD
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DanielKarath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-k-71421bab/) [![App Store](https://img.shields.io/badge/App_Store-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/developer/daniel-karath/id1651807385)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielkarath&count_private=true&hide_stars=true&theme=github_dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=danielkarath&theme=github-dark-blue&hide_total_contributions=true)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielkarath&count_private=true&hide=stars&theme=github_dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=danielkarath&theme=github-dark-blue&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
