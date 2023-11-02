@@ -4,7 +4,7 @@
 
 In addition to my proficiency in UIKit and SwiftUI, I'm also familiar with CoreData, Combine, and Firebase. I've even explored RxSwift a bit to broaden my skillset. At present, I have one app live on the App Store and another one just about ready to make its debut. Feel free to explore my repositories to see what I've been working on!
 
-🇸🇪 I'm currently open to exciting new opportunities in Sweden. Don't hesitate to get in touch!
+🇸🇪 I'm currently open to exciting new opportunities in Stockholm. Don't hesitate to get in touch!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-k-71421bab/) [![App Store](https://img.shields.io/badge/App_Store-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/developer/daniel-karath/id1651807385)
